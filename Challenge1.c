@@ -7,6 +7,8 @@ char nom[30];
 char prenom[30];
 int age=0;
 char sex[30];
+
+
 int numTel=0;
 printf("Entrez votre nom : ");
 scanf("%s", nom);
